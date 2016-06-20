@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <color name="mseelive_color">#fff</color>
+    <!-- divider line -->
+    <color name="divider_line_color">#d9d9d9</color>
+    <!-- 透明 -->
+    <color name="transparent">#00000000</color>
+    <color name="progress_bg_color">#aaaaaaaa</color>
+    
+    <color name="bottom_line_color">#ecebeb</color>
+    
+    <!-- 加载 -->
+    <color name="kprogresshud_default_color">#b1000000</color>
+    <color name="kprogresshud_grey_color">#449E9E9E</color>
+    
+    <!-- tab -->
+    <color name="unselected_txt_color">#818185</color>
+    <color name="tab_divider_color">#ebebeb</color>
+    
+    <!-- title -->
+    <color name="title_text_color">#1e1e1e</color>
+    <color name="title_right_unselected_color">#5b5b5b</color>
+    <color name="title_bottom_line_color">#cecece</color>
+    
+    <color name="common_name_text_color">#1e1e1e</color>
+    <color name="common_coin_text_color">#5b5b5b</color>
+    
+    <!-- button -->
+    <color name="btn_status_unclickable">#dddddd</color>
+    <color name="btn_status_clickable_normal">#fd646b</color> 
+    <color name="btn_status_clickable_holo">#e35b62</color>
+    
+    <!-- text -->
+    <color name="edit_text_color_normal">#666666</color>
+    <color name="text_color_mlivered">#fa656e</color>
+    <color name="text_color_mlivered1">#fa6173</color>
+    <color name="text_color_mlivered2">#ff000c</color>
+    <color name="text_color_mlivegray">#b9b9b9</color>
+    <color name="text_color_mliveyellow">#fdcc31</color>
+    <color name="text_color_mlivegray1">#bbbbbb</color>
+    <color name="text_color_mlivegray2">#736e6e</color>
+    <color name="textedit_color_search">#868686</color>
+    
+    <!-- live stream start -->
+    <color name="live_stream_donation_dimond_text_color">#fd646b</color>
+    <color name="live_stream_message_name_text_color">#f5dcb3</color>
+    <color name="live_stream_message_name_gift_color_red">#fd646b</color>
+    <color name="live_stream_message_name_gift_color_yellow">#fecd0b</color>
+    <color name="live_stream_message_purple">#ab6bd7</color>
+    <color name="live_stream_message_green">#74ac9c</color>
+    <!-- live stream end -->
+    
+    <!-- gift popup start -->
+    <color name="popup_gift_red_text_color">#fd646b</color>
+    <color name="popup_gift_grey_text_color">#b2b2b2</color>
+    <!-- gift popup end -->
+    
+    <!-- emoj start -->
+    <color name="pop_emoj_bg">#514c4b</color>
+    <!-- emoj end -->
+    
+    <!-- hj add temp -->
+    <color name="background_tab_pressed">#d9d9d9</color>
+    <color name="white">#ffffff</color>
+    <color name="white_transparent80">#a0ffffff</color>
+    <color name="background">#EEEEEE</color>
+    <color name="msee_color">#f4237b</color>
+    <color name="title_color2">#f6f6f6</color>
+    <color name="line_color">#dfdfdf</color>
+    <color name="text_color3">#5b5b5b</color>
+    <color name="xq_text_color1">#9b9b9b</color>
+    <color name="xq_title_color2">#eeeeee</color>
+    <color name="xq_text_color2">#f4247d</color>
+    <color name="msee_red_transparent80">#c3f4247d</color>
+    <color name="black">#000000</color>
+    <color name="black_transparent90">#e0000000</color>
+    <color name="gray_transparent90">#e0444444</color>
+    <!-- hj add temp -->
+    
+</resources>
